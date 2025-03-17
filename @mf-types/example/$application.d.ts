@@ -1,2 +1,2 @@
-export * from './compiled-types/.wis/pages/Index';
-export { default } from './compiled-types/.wis/pages/Index';
+export * from './compiled-types/.wis/pages/index';
+export { default } from './compiled-types/.wis/pages/index';

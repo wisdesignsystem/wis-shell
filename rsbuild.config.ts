@@ -8,5 +8,9 @@ export default defineConfig({
     port: 4000,
   },
 
+  html: {
+    template: "./public/index.html",
+  },
+
   plugins: [pluginReact(), pluginBasicSsl(), wisRsbuildPlugin()],
 });

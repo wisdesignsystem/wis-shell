@@ -1,3 +1,1 @@
-import "./Index.css";
-declare function Home(): import("react/jsx-runtime").JSX.Element;
-export default Home;
+export default function Index(): import("react/jsx-runtime").JSX.Element;

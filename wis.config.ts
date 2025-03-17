@@ -4,11 +4,7 @@ const config: WisConfig = {
   name: "shell",
 
   remotes: {
-    example: "https://wis-example.vercel.app",
-  },
-
-  exposes: {
-    "./Button": "./src/packages/button/Button",
+    example: "https://localhost:4001",
   },
 }
 
